@@ -1,11 +1,3 @@
 <?php
-
 // Premiere ligne
-
-
-echo "Bienvenue". ;
-
-
-
-
-
+echo "Bienvenue ". $_POST['fname'];
